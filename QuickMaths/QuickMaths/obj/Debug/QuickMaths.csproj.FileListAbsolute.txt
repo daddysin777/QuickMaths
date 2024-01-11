@@ -1,0 +1,3 @@
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMaths\obj\Debug\QuickMaths.Properties.Resources.resources
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMaths\obj\Debug\QuickMaths.csproj.GenerateResource.cache
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMaths\obj\Debug\QuickMaths.csproj.CoreCompileInputs.cache

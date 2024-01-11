@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace QuickMaths
+{
+    class User
+    {
+        String name;
+        String age;
+        int HighScore;
+        int LowestScore;
+        int avgscore;
+        int score;
+    }
+}

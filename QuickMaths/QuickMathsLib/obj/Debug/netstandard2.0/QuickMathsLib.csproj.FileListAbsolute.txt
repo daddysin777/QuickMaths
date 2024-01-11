@@ -1,0 +1,9 @@
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\bin\Debug\netstandard2.0\QuickMathsLib.deps.json
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\bin\Debug\netstandard2.0\QuickMathsLib.dll
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\bin\Debug\netstandard2.0\QuickMathsLib.pdb
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\obj\Debug\netstandard2.0\QuickMathsLib.csproj.CoreCompileInputs.cache
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\obj\Debug\netstandard2.0\QuickMathsLib.AssemblyInfoInputs.cache
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\obj\Debug\netstandard2.0\QuickMathsLib.AssemblyInfo.cs
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\obj\Debug\netstandard2.0\QuickMathsLib.dll
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\obj\Debug\netstandard2.0\QuickMathsLib.pdb
+G:\VS Projects\C-Sharp\GUI C#\QuickMaths\QuickMathsLib\obj\Debug\netstandard2.0\QuickMathsLib.csproj.AssemblyReference.cache
